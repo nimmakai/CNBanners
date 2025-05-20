@@ -63,9 +63,9 @@
 #wlm-de>a .wlm-image {
 	background-size: auto 100%;
 	background-repeat: repeat-x;
-	background-image: url('https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/WLE_Bangladesh_Banner_2025.jpg/1024px-WLE_Bangladesh_Banner_2025.jpg');
+	background-image: url('https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/WLE_Bangladesh_Banner_2025.jpg/1792px-WLE_Bangladesh_Banner_2025.jpg');
 	background-position: 0 50%;
-	transition: background-position 7s;
+	transition: background-position 5s;
 }
 
 @media (prefers-color-scheme: dark) {
