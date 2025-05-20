@@ -1,9 +1,9 @@
 :root {
-	--wle-logo-url: url("https://upload.wikimedia.org/wikipedia/commons/a/ae/Wiki_Loves_Earth_Bangladesh_Logo_%28Horizontal%29.svg");
+	--wle-logo-url: url("https://upload.wikimedia.org/wikipedia/commons/3/38/WLEBD2025_H_Logo.svg");
 }
 
 .skin-theme-clientpref-night {
-	--wle-logo-url: url("https://upload.wikimedia.org/wikipedia/commons/a/ae/Wiki_Loves_Earth_Bangladesh_Logo_%28Horizontal%29.svg");
+	--wle-logo-url: url("https://upload.wikimedia.org/wikipedia/commons/7/7c/WLEBD2025_H_Logo_Dark.svg");
 }
 
 
@@ -52,11 +52,11 @@
 }
 
 #wlm-de>a .wlm-logo {
-	width: 14em;
+	width: 12em;
 	text-indent: -1000em;
 	background-image: var(--wle-logo-url);
 	background-repeat: no-repeat;
-	background-size: 70%;
+	background-size: 60%;
 	background-position: 40% 47%;
 }
 
@@ -119,7 +119,7 @@
 		position: absolute;
 		background-image: var(--wle-logo-url);
 		background-color: var(--background-color-backdrop-light, #ffffffbb);
-		background-size: 20%;
+		background-size: 30%;
 	}
 
 	#wlm-de>a {
