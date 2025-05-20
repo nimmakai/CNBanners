@@ -31,7 +31,7 @@
 	padding: 0;
 	box-shadow: 0.1em 0.1em 0.6em 0 rgba(0, 0, 0, 0.4);
 	transition: box-shadow 0.3s;
-	height: auto;
+	height: 14%;
 	text-decoration: none;
 }
 
@@ -52,7 +52,7 @@
 }
 
 #wlm-de>a .wlm-logo {
-	width: 10em;
+	width: 14em;
 	text-indent: -1000em;
 	background-image: var(--wle-logo-url);
 	background-repeat: no-repeat;
@@ -63,9 +63,9 @@
 #wlm-de>a .wlm-image {
 	background-size: auto 100%;
 	background-repeat: repeat-x;
-	background-image: url('https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/WLE_Bangladesh_Banner_2025.jpg/960px-WLE_Bangladesh_Banner_2025.jpg');
+	background-image: url('https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/WLE_Bangladesh_Banner_2025.jpg/1024px-WLE_Bangladesh_Banner_2025.jpg');
 	background-position: 0 50%;
-	transition: background-position 4s;
+	transition: background-position 7s;
 }
 
 @media (prefers-color-scheme: dark) {
