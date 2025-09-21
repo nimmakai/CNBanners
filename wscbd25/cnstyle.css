@@ -1,5 +1,5 @@
 :root {
-	--wle-logo-url: url("https://upload.wikimedia.org/wikipedia/commons/3/38/WLEBD2025_H_Logo.svg");
+	--wle-logo-url: url("https://upload.wikimedia.org/wikipedia/commons/d/d9/Wiki_Science_Competition_Bangladesh_2025_Logo.svg");
 }
 
 .skin-theme-clientpref-night {
@@ -48,22 +48,22 @@
 #wlm-de>a>* {
 	display: table-cell;
 	vertical-align: middle;
-	padding: 0.7em 1.5em;
+	padding: 0.7em 1.2em;
 }
 
 #wlm-de>a .wlm-logo {
-	width: 12em;
+	width: 14em;
 	text-indent: -1000em;
 	background-image: var(--wle-logo-url);
 	background-repeat: no-repeat;
-	background-size: 60%;
-	background-position: 40% 47%;
+	background-size: 68%;
+	background-position: 45% 48%;
 }
 
 #wlm-de>a .wlm-image {
 	background-size: auto 100%;
 	background-repeat: repeat-x;
-	background-image: url('https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/WLE_Bangladesh_Banner_2025.jpg/1792px-WLE_Bangladesh_Banner_2025.jpg');
+	background-image: url('https://upload.wikimedia.org/wikipedia/commons/0/03/WSC_Bangladesh_2025_Banner.jpg');
 	background-position: 0 50%;
 	transition: background-position 5s;
 }
@@ -80,11 +80,11 @@
 
 #wlm-de .wlm-cta {
 	position: relative;
-	background-color: #339966;
+	background-color: #04689a;
 	color: #FFF;
 	width: 20em;
-	padding-right: 1.5em;
 	font-family: sans-serif;
+	font-size: .9em;
 }
 
 #wlm-de .wlm-cta:after {
@@ -94,7 +94,7 @@
 	transform: translateY(-61%);
 	content: '»';
 	display: block;
-	font-size: 2em;
+	font-size: 1.7em;
 	font-weight: normal;
 	transition: right 0.3s;
 }
@@ -119,7 +119,7 @@
 		position: absolute;
 		background-image: var(--wle-logo-url);
 		background-color: var(--background-color-backdrop-light, #ffffffbb);
-		background-size: 35%;
+		background-size: 53%;
 	}
 
 	#wlm-de>a {
