@@ -3,9 +3,8 @@
 }
 
 .skin-theme-clientpref-night {
-	--wle-logo-url: url("https://upload.wikimedia.org/wikipedia/commons/7/7c/WLEBD2025_H_Logo_Dark.svg");
+	--wle-logo-url: url("https://upload.wikimedia.org/wikipedia/commons/8/80/Wiki_Science_Competition_Bangladesh_2025_Logo_dark.svg");
 }
-
 
 #wlm-de {
 	padding: 0;
@@ -69,8 +68,9 @@
 }
 
 @media (prefers-color-scheme: dark) {
-	.wlm-logo {
-		background-image: var(--wle-logo-url);
+	#wlm-de>a .wlm-logo {
+		background-image: url("https://upload.wikimedia.org/wikipedia/commons/8/80/Wiki_Science_Competition_Bangladesh_2025_Logo_dark.svg");
+		background-color: #111;
 	}
 }
 
@@ -156,7 +156,7 @@
 
 	#wlm-de .wlm-close a {
 		display: block;
-		padding: 1em 1em .5em .5em;
+		padding: .5em .5em 1em 1em;
 	}
 }
 
